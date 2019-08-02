@@ -1,4 +1,4 @@
 Credits: Aulas do Curso em Video/Gustavo Guanabara
-Estas s„o minhas primeiras aula de ProgramÁ„o Orientada a Objetos em Java, as aulas
-foram tiradas do curso  de programaÁ„o do site: cursoemvideo.com mas tambÈm colocarei outros
-exercÌcios que encontrar referente ao assunto.
+Estas s√£o minhas primeiras aulas de Program√ß√£o Orientada a Objetos em Java, as aulas
+foram tiradas do curso  de programa√ß√£o do site: cursoemvideo.com mas tamb√©m colocarei outros
+exerc√≠cios que encontrar referente ao assunto.
